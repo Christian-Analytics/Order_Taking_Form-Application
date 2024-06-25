@@ -1,6 +1,4 @@
 ﻿// Programmer: Christian Castillo
-// Project: Assignment 3
-// Date: 11/8/2023
 // Description: Form for taking balloon orders
 using System;
 using System.Collections.Generic;
