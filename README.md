@@ -42,4 +42,4 @@ This repository contains a C# business application developed using Visual Studio
 
 ---
 
-Feel free to explore the functionality and design of the registration form. If you have any questions or feedback, please reach out. Happy coding! 😄
+Feel free to explore the functionality and design of the order taking form. If you have any questions or feedback, please reach out. Happy coding! 😄
